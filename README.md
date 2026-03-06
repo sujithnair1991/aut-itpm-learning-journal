@@ -13,16 +13,12 @@ This repo brings together weekly learning logs, shared research skills, and pape
 
 - `ense880-agile-project-management/`
   - `journal/` – weekly logs of lectures, prep, and reflections for ENSE880.
-  - `resources/` – links to videos, articles, and tools relevant to this paper.
+  - `assignments/` – briefs and working notes for ENSE880 assignments (Q1–Q3 etc.).
+  - `readings/` – notes on specific papers and articles (e.g. PM-2, complexity).
+  - `research-topics/` – seeds and shortlists for my 45/60-point research project.
+  - `resources/` – links to tools, videos, and external references.
 - `research-skills/`
-  - Paper‑agnostic systems for reading papers, choosing projects, and taking notes.
-- `<paper-code-2>/` – future papers (to be added).
-- `<paper-code-3>/` – future papers (to be added).
-
-## ENSE880 – Agile Project Management
-
-- **Paper:** ENSE880 – Agile Project Management  
-- **Lecturer:** Dr Ramesh Lal  
-- **Venue & Time:** WF611, Monday 11–1 PM  
-
-The first paper captured in this journal is ENSE880, focusing on agile and disciplined delivery, PMI process groups and knowledge areas, and why IT projects succeed or fail.
+  - Paper-agnostic systems for reading papers, choosing projects, and taking notes.
+- `<future-paper>/`
+  - Same pattern as above for upcoming ITPM papers.
+and knowledge areas, and why IT projects succeed or fail.
